@@ -1,3 +1,5 @@
+MIT License
+
 # UrFU
 Repository for education work
 
