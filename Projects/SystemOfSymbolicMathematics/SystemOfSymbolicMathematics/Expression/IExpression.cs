@@ -2,6 +2,7 @@
 {
     public interface IExpression
     {
-           
+        string Representation();
+        IExpression Clone();
     }
 }
