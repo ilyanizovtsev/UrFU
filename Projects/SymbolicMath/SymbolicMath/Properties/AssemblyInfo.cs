@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SystemOfSymbolicMathematics")]
+[assembly: AssemblyTitle("SymbolicMath")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SystemOfSymbolicMathematics")]
+[assembly: AssemblyProduct("SymbolicMath")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("099739A9-0CFC-480B-AFCF-301A97DC54EE")]
+[assembly: Guid("0F454589-6F77-4382-9443-664F8BF1E570")]
 
 // Version information for an assembly consists of the following four values:
 //
